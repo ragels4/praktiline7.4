@@ -54,3 +54,5 @@ else:
     for fail in failid:
         tulemused = analuusi_faili_sisu(fail)
         print(tulemused)
+
+#123
